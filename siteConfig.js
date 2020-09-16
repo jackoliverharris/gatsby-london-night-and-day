@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'London Night and Day',
+  name: 'Sheena May',
   shortName: '',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
+  description: 'I draw pretty things for cool cats.',
   url: 'https://www.jooplaan.com', // Domain of your site without prefix!
   prefix: '/',
   author: 'jooplaan',
